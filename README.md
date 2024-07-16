@@ -8,9 +8,9 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 
 Comportamentos esperados:
 
-Reprodutor Musical: tocar, pausar, selecionarMusica
-Aparelho Telefônico: ligar, atender, iniciarCorreioVoz
-Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+- Reprodutor Musical: tocar, pausar, selecionarMusica
+- Aparelho Telefônico: ligar, atender, iniciarCorreioVoz
+- Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 ## Tecnologias usadas:
 
